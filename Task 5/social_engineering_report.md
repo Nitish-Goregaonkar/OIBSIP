@@ -99,9 +99,4 @@ Adopting a proactive, multi-layered defense strategy and fostering a culture of 
 
 ---
 
-## 📚 References
 
-- FBI IC3 Report 2024
-- Verizon Data Breach Investigations Report (DBIR) 2023
-- Wired, Forbes, ZDNet – cybersecurity case coverage
-- NIST Cybersecurity Framework
