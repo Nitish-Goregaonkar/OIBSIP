@@ -61,8 +61,3 @@ sudo ufw status verbose
 - `ufw_status.png`: Screenshot showing the firewall rules in effect.
 - `README.md`: This file, explaining the setup and configuration steps.
 
-## Demo Video Idea
-
-**Title**: Configuring a Basic Firewall Using UFW on Ubuntu\
-**Description**: A short video demonstrating the steps taken to configure UFW, highlighting command usage, results, and verification of rules.
-
