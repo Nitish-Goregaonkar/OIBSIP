@@ -1,4 +1,4 @@
-# 🔐 Security Analyst Internship Portfolio
+# 🔐 OIBSIP Security Analyst Internship Portfolio
 
 Welcome to my **Security Analyst Internship** GitHub repository. This repository contains the deliverables for the internship tasks, including scripts, configurations, reports, and demo videos. These tasks demonstrate a broad foundation in cybersecurity using **Kali Linux**.
 
