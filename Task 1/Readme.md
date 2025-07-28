@@ -15,4 +15,4 @@ This scan helps in assessing the attack surface of a host in a local network env
 - **Scanning Tool:** Nmap (Network Mapper)
 - **Command Used:**
   ```bash
-  nmap -sS -sV -O -oN nmap_results.txt 192.168.1.38
+  nmap -sS -sV -O -oN nmap_results.txt 192.168.1.19
