@@ -1,9 +1,9 @@
 
-# 🛡️ Web Server Security Assessment Report
+# 🛡️ Vulnerability Scanning with Nikto 
 
 **Tool Used:** Nikto v2.5.0  
-**Scan Date:** [Insert Date Here]  
-**Author:** [Insert Analyst Name Here]
+**Scan Date:** 28-07-2025  
+
 
 ---
 
