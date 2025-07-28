@@ -1,8 +1,7 @@
 
-# 🛡️ Vulnerability Scanning with Nikto 
-
+# 🛡️  Vulnerability Scanning with Nikto
 **Tool Used:** Nikto v2.5.0  
-**Scan Date:** 28-07-2025  
+**Scan Date:** 28/07/2025
 
 
 ---
@@ -96,3 +95,15 @@ Nikto was used to perform a vulnerability scan on the web server hosted at `127.
 ## ✅ Conclusion
 
 The scan results highlight critical security risks stemming from backdoors, weak configuration, and a lack of fundamental protections. Immediate action is required to clean up malicious files, harden the server, and implement standard security headers.
+
+---
+
+## 📁 File Include
+
+### GitHub Deliverables:
+- `nikto_scan_results.txt`
+- `README.md` explaining the results
+
+### 🎥 Demo Video Idea:
+**Title:** nikto_scan_results.mp4 
+**Description:** A walkthrough demonstration of using Nikto to scan a vulnerable web server, identify key weaknesses, interpret the results, and suggest remediation steps based on real findings.
